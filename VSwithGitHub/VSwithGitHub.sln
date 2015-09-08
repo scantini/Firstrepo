@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSwithGitHub", "VSwithGitHu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSwithGitHub.Tests", "VSwithGitHub.Tests\VSwithGitHub.Tests.csproj", "{6A95F80C-90EE-421B-8BC8-7B9A583CFB05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSwithGitHub.Tests1", "VSwithGitHub.Tests1\VSwithGitHub.Tests1.csproj", "{E4D39C34-9A68-4421-A591-5A9B5262E726}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6A95F80C-90EE-421B-8BC8-7B9A583CFB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A95F80C-90EE-421B-8BC8-7B9A583CFB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A95F80C-90EE-421B-8BC8-7B9A583CFB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D39C34-9A68-4421-A591-5A9B5262E726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D39C34-9A68-4421-A591-5A9B5262E726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D39C34-9A68-4421-A591-5A9B5262E726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D39C34-9A68-4421-A591-5A9B5262E726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
